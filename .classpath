@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/extent-ooxml-2.52.1.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/extentreports-java-2.40.1.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/reflections-0.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/sqlite-jdbc-3.10.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/00/FrameWorkDesign_Task/FrameWorkDesign_Task/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
